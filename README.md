@@ -1,0 +1,2 @@
+# Magicpin_assignment
+password_validator
